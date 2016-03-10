@@ -1,0 +1,6 @@
+c:\users\joris\documents\visual studio 2015\Projects\Timing app\Timing app\bin\Debug\Timing app.exe.config
+c:\users\joris\documents\visual studio 2015\Projects\Timing app\Timing app\bin\Debug\Timing app.exe
+c:\users\joris\documents\visual studio 2015\Projects\Timing app\Timing app\bin\Debug\Timing app.pdb
+c:\users\joris\documents\visual studio 2015\Projects\Timing app\Timing app\obj\Debug\Timing app.csprojResolveAssemblyReference.cache
+c:\users\joris\documents\visual studio 2015\Projects\Timing app\Timing app\obj\Debug\Timing app.exe
+c:\users\joris\documents\visual studio 2015\Projects\Timing app\Timing app\obj\Debug\Timing app.pdb
